@@ -6,6 +6,5 @@
 </p>
 
 <p align="center">  
-  <a href="https://jaudrasportfolio.vercel.app/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=JulienAudras&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=0,243949,517fa4&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienAudras&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&bg_color=0,517fa4,243949&theme=graywhite" /></a>
+  <a href="https://jaudrasportfolio.vercel.app/"><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienAudras&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&bg_color=0,517fa4,243949&theme=graywhite" /></a>
 </p>
-![2](https://github.com/JulienAudras/JulienAudras/assets/119614401/5fa8df30-17e9-4060-bf1f-94582c808314)
